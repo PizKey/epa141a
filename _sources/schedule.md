@@ -32,14 +32,19 @@
 
 ## Key deadlines
 
+Labs are not graded but suggested deadlines keep you on track for the assignments that follow.
+
 | Deadline | Date | Time |
 |----------|------|------|
+| Labs 1–3 *(suggested)* | Friday 4 May 2026 | 17:00 |
 | Assignments 1–3 | Friday 4 May 2026 | 17:00 |
-| Assignments 4–6 | Friday 18 May 2026 | 17:00 |
-| Assignments 7–8 | Friday 1 June 2026 | 17:00 |
 | Actor enrolment opens | Sunday 4 May 2026 | 16:00 |
 | Actor enrolment closes | Monday 5 May 2026 | 16:00 |
 | Actor mandates distributed | Tuesday 6 May 2026 | 16:00 |
+| Labs 4–5 *(suggested)* | Friday 18 May 2026 | 17:00 |
+| Assignments 4–6 | Friday 18 May 2026 | 17:00 |
+| Lab 6 *(suggested)* | Friday 1 June 2026 | 17:00 |
+| Assignments 7–8 | Friday 1 June 2026 | 17:00 |
 | Pre-debate reflection | Tuesday 9 June 2026 | 17:00 |
 | Debate Session 1 (bloc + preliminary plenary) | Wednesday 3 June 2026 | 13:15–15:15 |
 | Debate Session 2 (final plenary + vote) | Wednesday 10 June 2026 | 13:00–15:25 |
