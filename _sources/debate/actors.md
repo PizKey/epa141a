@@ -3,7 +3,7 @@
 There are **30 actor groups** organised into **six negotiating blocs**. Each bloc deliberately mixes state delegations with non-state or institutional actors: industry lobbies, civil society organisations, financial institutions, and intergovernmental bodies. This means that even within your own bloc you will encounter conflicting interests and competing framings of fairness.
 
 ```{figure} ../_static/justice_actor_clusters_map.png
-:alt: JUSTICE actor clusters map
+:alt: JUSTICE actor blocs map
 :width: 100%
 
 Geographic distribution of the six negotiating blocs across the JUSTICE 57 world regions.

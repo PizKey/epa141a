@@ -73,11 +73,11 @@ Each bloc is represented by **one spokesperson** at the table. That spokesperson
 | 13:15–13:55 | First round of debate |
 | 13:55–14:15 | Break — spokespersons consult groups, negotiate bilaterally |
 | 14:15–14:55 | Second round of debate |
-| 14:55–15:15 | Chair updates agreement if warranted; **clusters vote** (majority of 4 required to adopt) |
+| 14:55–15:15 | Chair updates agreement if warranted; **blocs vote** (majority of 4 required to adopt) |
 
 ```{note}
-All six clusters cast **one vote each**. A majority of **four votes** is required to adopt the agreement.
-The UNFCCC Chair (Cluster 6) moderates and does not vote, but may reject the agreement if it is
+All six blocs cast **one vote each**. A majority of **four votes** is required to adopt the agreement.
+The UNFCCC Chair (Bloc 6) moderates and does not vote, but may reject the agreement if it is
 incompatible with the UNFCCC mandate.
 ```
 

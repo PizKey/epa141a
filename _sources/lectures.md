@@ -268,7 +268,7 @@ Final session of the climate change debate simulation. See [Debate instructions]
 | 13:15–13:55 | First round of debate |
 | 13:55–14:15 | Break — bilateral negotiations |
 | 14:15–14:55 | Second round of debate |
-| 14:55–15:15 | Chair updates agreement; clusters vote (majority of 4 required to adopt) |
+| 14:55–15:15 | Chair updates agreement; blocs vote (majority of 4 required to adopt) |
 | 15:15–15:25 | Debrief |
 
 
