@@ -68,7 +68,7 @@ A key phase in robust decision making is understanding when and how various sour
 - Pianosi, F. et al. (2016). Sensitivity analysis of environmental models: A systematic review. *Environmental Modelling & Software*, 79, 214–232. [→](https://doi.org/10.1016/j.envsoft.2016.02.008)
 
 ```{note}
-**Deadline: Assignments 1–3 due Friday 4 May, 17:00**
+**Deadline: Assignments 1–3 due Monday 4 May, 17:00**
 ```
 :::
 
@@ -144,7 +144,7 @@ Vulnerability analyses rely on sampling. An alternative way to search through a 
 - Coello, C. A. et al. (2007). *Evolutionary algorithms for solving multi-objective problems*. Springer.
 
 ```{note}
-**Deadline: Assignments 4–6 due Friday 18 May, 17:00**
+**Deadline: Assignments 4–6 due Monday 18 May, 17:00**
 ```
 :::
 
@@ -213,7 +213,7 @@ JUSTICE simulates 57 world regions across the RICE-50+ framework (2015–2300).
 - Hänsel, M. C. et al. (2020). Climate economics support for the UN climate targets. *Nature Climate Change*, 10(8). [→](https://doi.org/10.1038/s41558-020-0833-x)
 
 ```{note}
-**Deadline: Assignments 7–8 due Friday 1 June, 17:00**
+**Deadline: Assignments 7–8 due Monday 1 June, 17:00**
 ```
 :::
 

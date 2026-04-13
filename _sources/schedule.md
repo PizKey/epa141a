@@ -16,7 +16,7 @@
 
 *Dark blue = exploratory modelling sessions. Orange = politics of decision making. Green = exam/deadline.*
 
-| Week | # | Monday | Topic | Wednesday | Topic | Deadline (Friday 17:00) |
+| Week | # | Monday | Topic | Wednesday | Topic | Deadline (Monday 17:00) |
 |------|---|--------|-------|-----------|-------|------------------------|
 | 17 | 1 | 20 Apr | Introduction, case, rationale & workflow setup *(Jazmin)* | 22 Apr | Supporting decision-making under deep uncertainty *(Jan)* | |
 | 18 | 2 | | | 29 Apr | Open Exploration: global sensitivity analysis *(Jan)* | **A1–3 due 4 May** |
@@ -36,15 +36,15 @@ Labs are not graded but suggested deadlines keep you on track for the assignment
 
 | Deadline | Date | Time |
 |----------|------|------|
-| Labs 1–3 *(suggested)* | Friday 4 May 2026 | 17:00 |
-| Assignments 1–3 | Friday 4 May 2026 | 17:00 |
+| Labs 1–3 *(suggested)* | Monday 4 May 2026 | 17:00 |
+| Assignments 1–3 | Monday 4 May 2026 | 17:00 |
 | Actor enrolment opens | Monday 4 May 2026 | 16:00 |
 | Actor enrolment closes | Tuesday 5 May 2026 | 16:00 |
 | Actor mandates distributed | Wednesday 6 May 2026 | 16:00 |
-| Labs 4–5 *(suggested)* | Friday 18 May 2026 | 17:00 |
-| Assignments 4–6 | Friday 18 May 2026 | 17:00 |
-| Lab 6 *(suggested)* | Friday 1 June 2026 | 17:00 |
-| Assignments 7–8 | Friday 1 June 2026 | 17:00 |
+| Labs 4–5 *(suggested)* | Monday 18 May 2026 | 17:00 |
+| Assignments 4–6 | Monday 18 May 2026 | 17:00 |
+| Lab 6 *(suggested)* | Monday 1 June 2026 | 17:00 |
+| Assignments 7–8 | Monday 1 June 2026 | 17:00 |
 | Pre-debate reflection | Tuesday 9 June 2026 | 17:00 |
 | Debate Session 1 (bloc + preliminary plenary) | Wednesday 3 June 2026 | 13:15–15:15 |
 | Debate Session 2 (final plenary + vote) | Wednesday 10 June 2026 | 13:00–15:25 |
