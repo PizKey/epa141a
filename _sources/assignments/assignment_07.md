@@ -13,7 +13,7 @@
 
 ## Prerequisites
 
-- **Assignment 6 completed** — the cross-seed reference set (`reference_set_utilitarian.csv`) is required.
+- **Assignment 6 completed** — the cross-seed reference set is required.
 
 ## Key packages
 

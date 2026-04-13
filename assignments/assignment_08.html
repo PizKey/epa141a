@@ -391,7 +391,6 @@ document.write(`
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#learning-objectives">Learning objectives</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#prerequisites">Prerequisites</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#justice-uncertainties-in-re-evaluation">JUSTICE uncertainties in re-evaluation</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#notebook">Notebook</a></li>
 </ul>
             </nav>
@@ -411,7 +410,7 @@ document.write(`
 <section id="learning-objectives">
 <h2>Learning objectives<a class="headerlink" href="#learning-objectives" title="Permalink to this heading">#</a></h2>
 <ol class="arabic simple">
-<li><p><strong>Re-evaluate</strong> candidate policies from Assignment 7 across a large ensemble of uncertain futures (28 policies × 50 FaIR ensemble members).</p></li>
+<li><p><strong>Re-evaluate</strong> candidate policies from Assignment 7 across a large ensemble of uncertain futures.</p></li>
 <li><p>Compute <strong>satisficing</strong> and <strong>regret</strong> robustness metrics for each policy across all objectives.</p></li>
 <li><p>Rank policies by their robustness score and identify the most robust policy.</p></li>
 <li><p>Apply <strong>scenario re-discovery</strong> (PRIM) to identify the uncertain conditions under which even the most robust policies still fail.</p></li>
@@ -424,17 +423,16 @@ document.write(`
 <li><p><strong>Assignment 6 completed</strong> — the cross-seed reference set is required.</p></li>
 <li><p><strong>Assignment 7 completed</strong> — the candidate policy shortlist is required.</p></li>
 </ul>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>A8 runs 28 policies × 50 FaIR scenarios sequentially (≈ 20–40 min, one time only).
-Results are cached to <code class="docutils literal notranslate"><span class="pre">results/reeval_utilitarian_28p_50s.npy</span></code> and loaded instantly
-on subsequent runs.</p>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+Hint — JUSTICE uncertainties in re-evaluation<div class="sd-summary-down docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
+<div class="sd-summary-up docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
+</summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text">The re-evaluation uses the <strong>FaIR climate ensemble</strong> (1001 calibrated members, each representing a different Equilibrium Climate Sensitivity) to propagate physical uncertainty. This is one approach that can be combined with the normative uncertainties (ρ, η, δ) explored in Assignments 1–3.</p>
 </div>
-</section>
-<section id="justice-uncertainties-in-re-evaluation">
-<h2>JUSTICE uncertainties in re-evaluation<a class="headerlink" href="#justice-uncertainties-in-re-evaluation" title="Permalink to this heading">#</a></h2>
-<p>The re-evaluation uses the <strong>FaIR climate ensemble</strong> (1001 calibrated members, each representing a different Equilibrium Climate Sensitivity) to propagate physical uncertainty. This is combined with the normative uncertainties (ρ, η, δ) from Assignments 1–3.</p>
-</section>
+</details></section>
 <section id="notebook">
 <h2>Notebook<a class="headerlink" href="#notebook" title="Permalink to this heading">#</a></h2>
 <p><code class="docutils literal notranslate"><span class="pre">assignments_ema/assignment_08_robustness.ipynb</span></code></p>
@@ -507,7 +505,6 @@ on subsequent runs.</p>
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#learning-objectives">Learning objectives</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#prerequisites">Prerequisites</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#justice-uncertainties-in-re-evaluation">JUSTICE uncertainties in re-evaluation</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#notebook">Notebook</a></li>
 </ul>
   </nav></div>

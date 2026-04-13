@@ -697,7 +697,7 @@ conda<span class="w"> </span>env<span class="w"> </span>create<span class="w"> <
 </section>
 <section id="slow-first-run-in-a8">
 <h3>Slow first run in A8<a class="headerlink" href="#slow-first-run-in-a8" title="Permalink to this heading">#</a></h3>
-<p>A8 runs 28 policies × 50 FaIR scenarios (≈ 20–40 min, one time only). Results are cached to <code class="docutils literal notranslate"><span class="pre">results/reeval_utilitarian_28p_50s.npy</span></code> and loaded instantly on subsequent runs.</p>
+<p>A8 re-evaluates policies across a large ensemble of uncertain futures — this is slow on the first run. Results are cached and loaded instantly on subsequent runs.</p>
 </section>
 <section id="still-stuck">
 <h3>Still stuck?<a class="headerlink" href="#still-stuck" title="Permalink to this heading">#</a></h3>

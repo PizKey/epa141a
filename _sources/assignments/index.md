@@ -85,10 +85,10 @@ Assignment 7 and 8 both load the reference set produced by Assignment 6. If the 
 This file is not provided — you must generate it yourself in A6.
 :::
 
-:::{dropdown} Assignment 8 first run takes 20–40 minutes
-A8 re-evaluates 28 Pareto policies across 50 FaIR climate ensemble members. This is slow on the first run (~20–40 min). Results are cached to `results/reeval_utilitarian_28p_50s.npy` — subsequent runs load the cache instantly.
+:::{dropdown} Assignment 8 first run can take a long time
+A8 re-evaluates policies across a large ensemble of uncertain futures. This is slow on the first run. Results are cached and loaded instantly on subsequent runs.
 
-If you want to run it faster while testing, reduce `n_scenarios` in the notebook, then set it back to 50 for your final submission.
+If you want to run it faster while testing, reduce `n_scenarios` in the notebook before running the full re-evaluation.
 :::
 
 :::{dropdown} `RecursionError` during `perform_experiments`

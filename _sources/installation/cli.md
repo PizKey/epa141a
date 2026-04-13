@@ -279,7 +279,7 @@ Complete and fully execute Assignment 6 first. The file is saved to `model_answe
 
 ### Slow first run in A8
 
-A8 runs 28 policies × 50 FaIR scenarios (≈ 20–40 min, one time only). Results are cached to `results/reeval_utilitarian_28p_50s.npy` and loaded instantly on subsequent runs.
+A8 re-evaluates policies across a large ensemble of uncertain futures — this is slow on the first run. Results are cached and loaded instantly on subsequent runs.
 
 ### Still stuck?
 

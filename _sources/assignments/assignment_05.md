@@ -30,11 +30,11 @@ Results are saved automatically so you do not lose progress if you need to pause
 
 ## Running on DelftBlue HPC (recommended for 100k+ NFE)
 
-Running 5 seeds × 50 000 NFE locally takes roughly **one working day** and leaves your laptop unusable in the meantime. DelftBlue runs all 5 seeds **in parallel** and finishes in about **2–4 hours**.
+Running multiple seeds × 50 000 NFE locally takes roughly **one working day** and leaves your laptop unusable in the meantime. DelftBlue runs all seeds **in parallel** and finishes in about **2–4 hours**.
 
 ```{admonition} You do not need HPC to pass this assignment
 :class: tip
-The local run (1 seed, 50 000 NFE) is sufficient for submission. HPC is recommended if you want a complete 5-seed reference set for Assignments 6 and 7, or if your laptop is slow.
+The local run (1 seed, 50 000 NFE) is sufficient for submission. HPC is recommended if you want a complete multi-seed reference set for Assignments 6 and 7, or if your laptop is slow.
 ```
 
 ### Step 1 — Get access to DelftBlue
@@ -104,7 +104,7 @@ squeue -u $USER          # see job status
 cat results/logs/seed_1_<jobid>.out  # see output for seed 1
 ```
 
-**Expected output** once jobs complete:
+**Sample outputs** once jobs complete:
 ```
 results/
 └── UTILITARIAN_50000_9845531/
@@ -134,7 +134,7 @@ Use WinSCP or MobaXterm to download the `results/` folder from `~/epa141a/result
 
 ::::
 
-Open your Assignment 5 notebook locally, run Step 3 (Load and Inspect Results), and verify all 5 seeds loaded correctly.
+Open your Assignment 5 notebook locally, run Step 3 (Load and Inspect Results), and verify all seeds loaded correctly.
 
 ### Troubleshooting HPC runs
 

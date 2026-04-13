@@ -445,10 +445,10 @@ Results are saved automatically so you do not lose progress if you need to pause
 <hr class="docutils" />
 <section id="running-on-delftblue-hpc-recommended-for-100k-nfe">
 <h2>Running on DelftBlue HPC (recommended for 100k+ NFE)<a class="headerlink" href="#running-on-delftblue-hpc-recommended-for-100k-nfe" title="Permalink to this heading">#</a></h2>
-<p>Running 5 seeds × 50 000 NFE locally takes roughly <strong>one working day</strong> and leaves your laptop unusable in the meantime. DelftBlue runs all 5 seeds <strong>in parallel</strong> and finishes in about <strong>2–4 hours</strong>.</p>
+<p>Running multiple seeds × 50 000 NFE locally takes roughly <strong>one working day</strong> and leaves your laptop unusable in the meantime. DelftBlue runs all seeds <strong>in parallel</strong> and finishes in about <strong>2–4 hours</strong>.</p>
 <div class="tip admonition">
 <p class="admonition-title">You do not need HPC to pass this assignment</p>
-<p>The local run (1 seed, 50 000 NFE) is sufficient for submission. HPC is recommended if you want a complete 5-seed reference set for Assignments 6 and 7, or if your laptop is slow.</p>
+<p>The local run (1 seed, 50 000 NFE) is sufficient for submission. HPC is recommended if you want a complete multi-seed reference set for Assignments 6 and 7, or if your laptop is slow.</p>
 </div>
 <section id="step-1-get-access-to-delftblue">
 <h3>Step 1 — Get access to DelftBlue<a class="headerlink" href="#step-1-get-access-to-delftblue" title="Permalink to this heading">#</a></h3>
@@ -513,7 +513,7 @@ pip<span class="w"> </span>install<span class="w"> </span>-e<span class="w"> </s
 cat<span class="w"> </span>results/logs/seed_1_&lt;jobid&gt;.out<span class="w">  </span><span class="c1"># see output for seed 1</span>
 </pre></div>
 </div>
-<p><strong>Expected output</strong> once jobs complete:</p>
+<p><strong>Sample outputs</strong> once jobs complete:</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span>results/
 └── UTILITARIAN_50000_9845531/
 │   ├── pareto_front_9845531.csv
@@ -542,7 +542,7 @@ Windows</label><div class="sd-tab-content docutils">
 <p>Use WinSCP or MobaXterm to download the <code class="docutils literal notranslate"><span class="pre">results/</span></code> folder from <code class="docutils literal notranslate"><span class="pre">~/epa141a/results</span></code> on DelftBlue into your local <code class="docutils literal notranslate"><span class="pre">epa141a/results/</span></code>.</p>
 </div>
 </div>
-<p>Open your Assignment 5 notebook locally, run Step 3 (Load and Inspect Results), and verify all 5 seeds loaded correctly.</p>
+<p>Open your Assignment 5 notebook locally, run Step 3 (Load and Inspect Results), and verify all seeds loaded correctly.</p>
 </section>
 <section id="troubleshooting-hpc-runs">
 <h3>Troubleshooting HPC runs<a class="headerlink" href="#troubleshooting-hpc-runs" title="Permalink to this heading">#</a></h3>

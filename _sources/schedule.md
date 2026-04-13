@@ -14,7 +14,6 @@
 
 ## Course programme
 
-*Dark blue = exploratory modelling sessions. Orange = politics of decision making. Green = exam/deadline.*
 
 | Week | # | Monday | Topic | Wednesday | Topic | Deadline (Monday 17:00) |
 |------|---|--------|-------|-----------|-------|------------------------|
