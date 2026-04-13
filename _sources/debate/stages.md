@@ -1,6 +1,6 @@
 # Debate Stages
 
-The COP31 debate runs across **eight stages** spanning both sessions.
+The climate change debate runs across **eight stages** spanning both sessions.
 
 ---
 

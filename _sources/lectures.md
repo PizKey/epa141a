@@ -243,7 +243,7 @@ Over the last weeks, you have been going through the various methods and techniq
 ### Lecture 12 — Student Debate: Session 1
 *Wed 3 Jun · Jazmin & Jan*
 
-First session of the COP31 debate simulation. See [Debate instructions](debate/index.md).
+First session of the climate change debate simulation. See [Debate instructions](debate/index.md).
 
 | Time | Activity |
 |------|----------|
@@ -260,7 +260,7 @@ First session of the COP31 debate simulation. See [Debate instructions](debate/i
 ### Lecture 13 — Student Debate: Session 2
 *Wed 10 Jun · Jazmin, Tamara & Jan*
 
-Final session of the COP31 debate simulation. See [Debate instructions](debate/index.md).
+Final session of the climate change debate simulation. See [Debate instructions](debate/index.md).
 
 | Time | Activity |
 |------|----------|

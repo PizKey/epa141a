@@ -1,8 +1,8 @@
 # Debate Instructions
 
-## COP31 Climate Negotiations
+## Climate Change Negotiations
 
-You are attending the **UNFCCC COP31**. The world has failed to meet its Paris targets. Temperatures are tracking above 2°C. Financing pledges remain unfulfilled. The pressure to produce a meaningful agreement has never been higher.
+You are attending **UNFCCC climate change negotiations**. The world has failed to meet its Paris targets. Temperatures are tracking above 2°C. Financing pledges remain unfulfilled. The pressure to produce a meaningful agreement has never been higher.
 
 Your group represents one of **30 actors** in these negotiations. Your job is to use the JUSTICE IAM to quantify the consequences of different climate policies for your actor, and then to negotiate — hard — for the outcome your actor needs.
 

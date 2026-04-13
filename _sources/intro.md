@@ -33,7 +33,7 @@ Check the lecture topic, lab session, and assignment deadline for this week.
 
 This course teaches you how to use **computational models to support decisions on complex societal problems** — climate change, energy transition, water management — where the future is deeply uncertain and stakeholders disagree on values.
 
-You will work with a real climate Integrated Assessment Model (**JUSTICE**), run thousands of simulations, explore what happens under different scenarios and assumptions, design policies that are robust to uncertainty, and then defend your recommendations in a structured debate simulating **COP31 negotiations**.
+You will work with a real climate Integrated Assessment Model (**JUSTICE**), run thousands of simulations, explore what happens under different scenarios and assumptions, design policies that are robust to uncertainty, and then defend your recommendations in a structured debate simulating **climate change negotiations**.
 
 By the end of the course you will be able to run a full model-based policy analysis pipeline: from exploratory modelling and sensitivity analysis, through multi-objective optimisation, to robustness analysis and stakeholder communication.
 
@@ -46,7 +46,8 @@ By the end of the course you will be able to run a full model-based policy analy
 | 8 individual assignments (JUSTICE model) | [Assignments](assignments/index.md) |
 | 6 guided lab sessions (Lake Problem) | [Labs](labs/index.md) |
 | 13 lectures | [Lectures](lectures.md) |
-| COP31 debate (group project) | [Debate](debate/index.md) |
+| Climate change debate (group project) | [Debate](debate/index.md) |
+| Final project report | [Final Project](project/index.md) |
 | Python environment setup | [Installation](installation/index.md) |
 | Weekly schedule and deadlines | [Schedule](schedule.md) |
 
@@ -55,7 +56,7 @@ By the end of the course you will be able to run a full model-based policy analy
 | Component | Weight |
 |-----------|--------|
 | Part 1: Model-based analysis and policy advice | 70 % |
-| Part 2: Political reflection on the COP31 debate | 30 % |
+| Part 2: Political reflection on the climate change debate | 30 % |
 
 ---
 

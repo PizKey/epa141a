@@ -15,7 +15,7 @@ The final report has **two parts**:
 | Part | Title | Weight |
 |------|-------|--------|
 | 1 | Model-based analysis and policy advice | **70 %** |
-| 2 | Political reflection on the COP31 debate | **30 %** |
+| 2 | Political reflection on the climate change debate | **30 %** |
 
 **Maximum length:** 10,000 words for the main text (excluding references and appendices). Figures and tables count as 300 words each. Being over the word limit can result in a lower grade.
 
@@ -78,11 +78,11 @@ Submit code as either a GitHub repository link or a zip file shared via a file t
 
 ---
 
-## Part 2 — Political reflection on the COP31 debate (30 %)
+## Part 2 — Political reflection on the climate change debate (30 %)
 
 ### Goal
 
-Show your understanding of the different roles that (model-based) knowledge plays in decision making, drawing on the concrete negotiations of the COP31 debate.
+Show your understanding of the different roles that (model-based) knowledge plays in decision making, drawing on the concrete negotiations of the climate change debate.
 
 ### What to write
 

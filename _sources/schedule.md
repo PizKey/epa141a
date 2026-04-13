@@ -59,7 +59,7 @@ The course is assessed entirely through the **group project** (groups of 4 stude
 | Component | Weight |
 |-----------|--------|
 | Part 1: Model-based analysis and policy advice | 70 % |
-| Part 2: Political reflection on the COP31 debate | 30 % |
+| Part 2: Political reflection on the climate change debate | 30 % |
 
 See [Final Project](project/index.md) for full instructions and rubric.
 
